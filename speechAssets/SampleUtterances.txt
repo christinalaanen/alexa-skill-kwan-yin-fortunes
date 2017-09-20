@@ -1,0 +1,14 @@
+FortuneIntent what's my fortune
+FortuneIntent my fortune
+FortuneIntent fortune
+FortuneIntent draw a lot
+FortuneIntent lot
+FortuneIntent random fortune
+FortuneIntent random lot
+FortuneIntent say what's my fortune
+FortuneIntent draw my fortune
+FortuneIntent draw my lot
+FortuneIntent give me a fortune
+FortuneIntent give me my fortune
+FortuneIntent give me a lot
+FortuneIntent give me my lot
